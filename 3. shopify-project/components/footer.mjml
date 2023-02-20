@@ -1,0 +1,44 @@
+    <mj-raw>
+        <!-- Footer -->
+    </mj-raw>
+    <mj-wrapper css-class="footer" padding="0px">
+        <mj-section padding="0">
+        <mj-group css-class="icons-size">
+                <mj-column padding="0">
+                    <mj-image href="https://facebook.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/fb.png" width="27px" height="27px" padding="0 5px" alt="facebook"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://twitter.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/tw.png" width="27px" height="27px" padding="0 5px" alt="twitter"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://instagram.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/insta.png" width="27px" height="27px" padding="0 5px" alt="instagram"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://snapchat.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/snap.png" width="27px" height="27px" padding="0 5px" alt="snapchat"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://linkedin.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/in.png" width="27px" height="27px" padding="0 5px" alt="linkedin"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://pintrest.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/pin.png" width="27px" height="27px" padding="0 5px" alt="pintrest"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image href="https://youtube.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/yt.png" width="27px" height="27px" padding="0 5px" alt="youtube"/>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section padding="20px 0 0">
+            <mj-column padding="0">
+                <mj-text font-size="10px" align="center">
+                &copy; Shopify, 151 O'Connor Street, Ground floor, Ottawa ON, K2P 2L8
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0 0 60px">
+            <mj-column padding="0">
+                <mj-text font-size="10px" align="center">
+                    <a href="#" class="footer-links">Unsubcribe</a> | <a href="#" class="footer-links">Manage your email prefrences</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-wrapper>
