@@ -37,7 +37,7 @@
         <mj-section padding="0 0 60px">
             <mj-column padding="0">
                 <mj-text font-size="10px" align="center">
-                    <a href="#" class="footer-links">Unsubcribe</a> | <a href="#" class="footer-links">Manage your email prefrences</a>
+                    <a href="#" class="footer-links">Unsubscribe</a> | <a href="#" class="footer-links">Manage your email prefrences</a>
                 </mj-text>
             </mj-column>
         </mj-section>
