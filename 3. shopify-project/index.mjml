@@ -43,7 +43,7 @@
             padding: 40px 0 30px;
         }
         .footer{
-            background-image: url('http://127.0.0.1:5500/3.%20shopify-project/assets/bg-colors.png');
+            background-image: url('https://i.postimg.cc/52kZt4nf/bg-colors.png');
             background-size: 600px;
         }
         .content-background{
@@ -71,7 +71,7 @@
     </mj-raw>
     <mj-section>
     <mj-column>
-        <mj-image href="https://shopify.com/blog" padding-bottom="20px" src="http://127.0.0.1:5500/3.%20shopify-project/assets/image.jpg">
+        <mj-image href="https://shopify.com/blog" padding-bottom="20px" src="https://i.postimg.cc/W4FxFBHg/image.jpg">
     </mj-column>
     <mj-column>
         <mj-text color="#004c3f" font-size="24px" font-weight="bold" padding-bottom="20px">
@@ -100,10 +100,10 @@
     <mj-section padding="0">
     <mj-group>
             <mj-column padding="0">
-                <mj-image href="https://apple.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/appstore.png" width="150px" height="43px" align="right" padding="0 5px"/>
+                <mj-image href="https://apple.com/shopify" src="https://i.postimg.cc/bwdB4X8W/appstore.png" width="150px" height="43px" align="right" padding="0 5px"/>
             </mj-column>
             <mj-column padding="0">
-                <mj-image href="https://android.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/android.png" width="150px" height="43px" align="left" padding="0 5px"/>
+                <mj-image href="https://android.com/shopify" src="https://i.postimg.cc/1tDTMpPz/android.png" width="150px" height="43px" align="left" padding="0 5px"/>
             </mj-column>
         </mj-group>
     </mj-section>

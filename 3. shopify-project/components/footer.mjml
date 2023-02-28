@@ -5,25 +5,25 @@
         <mj-section padding="0">
         <mj-group css-class="icons-size">
                 <mj-column padding="0">
-                    <mj-image href="https://facebook.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/fb.png" width="27px" height="27px" padding="0 5px" alt="facebook"/>
+                    <mj-image href="https://facebook.com/shopify" src="https://i.postimg.cc/Xq8P64rS/fb.png" width="27px" height="27px" padding="0 5px" alt="facebook"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://twitter.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/tw.png" width="27px" height="27px" padding="0 5px" alt="twitter"/>
+                    <mj-image href="https://twitter.com/shopify" src="https://i.postimg.cc/mkRnnt2y/tw.png" width="27px" height="27px" padding="0 5px" alt="twitter"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://instagram.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/insta.png" width="27px" height="27px" padding="0 5px" alt="instagram"/>
+                    <mj-image href="https://instagram.com/shopify" src="https://i.postimg.cc/FHKMmdbP/insta.png" width="27px" height="27px" padding="0 5px" alt="instagram"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://snapchat.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/snap.png" width="27px" height="27px" padding="0 5px" alt="snapchat"/>
+                    <mj-image href="https://snapchat.com/shopify" src="https://i.postimg.cc/NfQhJPKv/snap.png" width="27px" height="27px" padding="0 5px" alt="snapchat"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://linkedin.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/in.png" width="27px" height="27px" padding="0 5px" alt="linkedin"/>
+                    <mj-image href="https://linkedin.com/shopify" src="https://i.postimg.cc/43DqzWDM/in.png" width="27px" height="27px" padding="0 5px" alt="linkedin"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://pintrest.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/pin.png" width="27px" height="27px" padding="0 5px" alt="pintrest"/>
+                    <mj-image href="https://pintrest.com/shopify" src="https://i.postimg.cc/FFg8LgDW/pin.png" width="27px" height="27px" padding="0 5px" alt="pintrest"/>
                 </mj-column>
                 <mj-column padding="0">
-                    <mj-image href="https://youtube.com/shopify" src="http://127.0.0.1:5500/3.%20shopify-project/assets/yt.png" width="27px" height="27px" padding="0 5px" alt="youtube"/>
+                    <mj-image href="https://youtube.com/shopify" src="https://i.postimg.cc/Fsrqgd69/yt.png" width="27px" height="27px" padding="0 5px" alt="youtube"/>
                 </mj-column>
             </mj-group>
         </mj-section>
